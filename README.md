@@ -1,2 +1,2 @@
 # hello-world
-First program
+First program.  This is my first try at using github
